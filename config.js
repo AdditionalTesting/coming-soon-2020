@@ -16,12 +16,12 @@ module.exports = {
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/app-generator/gatsby-html5up-aerial',
+      url: 'https://github.com/AdditionalTesting',
     },
     {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/webappseed',
+      icon: 'fa-linkedin',
+      name: 'LinkedIn',
+      url: 'https://www.linkedin.com/in/albert-burchi/',
     }
   ],
 };

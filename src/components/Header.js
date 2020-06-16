@@ -5,9 +5,9 @@ export default function Footer() {
   return (
     <header id="header">
       <h1>
-        <a href="https://www.gatsbyjs.org/">Gatsby</a> Html5up
+        Coming Soon
       </h1>
-      <p>Open-Source app with Aerial design</p>
+      <p>Porfolio/Personal Website buillt with <a href="https://www.gatsbyjs.org/">GatsbyJS</a></p>
       <nav>
         <ul>
           {config.authorSocialLinks.map(social => {
